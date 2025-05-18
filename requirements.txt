@@ -1,0 +1,13 @@
+flask
+google-auth-oauthlib
+google-auth-httplib2
+google-api-python-client
+pandas
+scikit-learn
+joblib
+numpy
+matplotlib
+seaborn
+flask-wtf
+python-dotenv
+underthesea
